@@ -1,13 +1,13 @@
-package com.sparta.jpaadvacne;
+package com.sparta.jpaadvance;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JpaAdvacneApplication {
+public class JpaAdvanceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(JpaAdvacneApplication.class, args);
+        SpringApplication.run(JpaAdvanceApplication.class, args);
     }
 
 }

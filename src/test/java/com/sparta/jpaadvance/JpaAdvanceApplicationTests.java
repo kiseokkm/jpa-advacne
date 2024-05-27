@@ -1,10 +1,10 @@
-package com.sparta.jpaadvacne;
+package com.sparta.jpaadvance;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JpaAdvacneApplicationTests {
+class JpaAdvanceApplicationTests {
 
     @Test
     void contextLoads() {
